@@ -1,5 +1,5 @@
 # Seja muito bem-vindo(a) ao meu projeto Trybers and Dragons! :rocket:
-![office](https://github.com/ErickArgollo/project-Store-Manager/blob/main/10j2.gif)
+![office](https://github.com/ErickArgollo/project-Trybers-and-Dragons/blob/main/Dht.gif)
 
 
 #### Neste projeto, desenvolvi um jogo de RPG baseado em Dungeons and Dragons, aplicando com assertividade os princípios da arquitetura SOLID e da programação orientada a objetos. O objetivo foi criar uma estrutura modular e escalável para a criação e execução de aventuras de RPG de forma fácil e eficiente. Utilizei TypeScript, o que permitiu um controle mais preciso dos tipos de dados utilizados, resultando em um código mais robusto e menos suscetível a erros.
@@ -22,7 +22,7 @@
 
 ### Clonar no seu computador ( SSH ) 
  No terminal 
-`https://github.com/ErickArgollo/project-Store-Manager`
+`git@github.com:ErickArgollo/project-Trybers-and-Dragons.git`
 
 
 ## Como contribuir no projeto
