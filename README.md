@@ -14,7 +14,7 @@
 * TypeScript
 
 ## Nota final no projeto
-![store-manager-grade](https://github.com/ErickArgollo/project-Store-Manager/blob/main/grade.png)
+![trybers-and-dragons-grade](https://github.com/ErickArgollo/project-Trybers-and-Dragons/blob/main/grade.png)
 
 ## Rodando localmente
  ### Requisitos
